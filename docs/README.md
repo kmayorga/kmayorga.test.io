@@ -11,9 +11,6 @@
 <img src="_images/stewardship-tree.PNG" alt="stewardship_treemap" style="width:50%;"/>
 </p>
 
-!> RI is not timed
-
-
 <b>
 
 1.  What is God asking you to be a steward of in this season?
