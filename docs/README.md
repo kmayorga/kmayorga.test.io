@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="_images/stewardship-tree.PNG" alt="stewardship_treemap" style="width:50%;"/>
+<img src="_images/stewardship-tree.PNG" alt="stewardship_treemap" style="width:100%;"/>
 </p>
 
 <b>
