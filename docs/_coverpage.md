@@ -2,17 +2,12 @@
 
 ![logo](/_images/logo-cy-white.png ':size=140x120')
 
-# FY22 Impact Analytics Road Map
+# Welcome to the Rock Cafe
 
-> Welcome to the Impact Analytics Road Map! You can think of this as a How to Guide and checklist for all service model things that involve or relate to data. Follow the table of contents links below for more details on topics organized chronologically over the year.
+> *A people you can call family and a place you can call home.* We are here every Sunday 9am - 10:15am and 12 - 1:30pm
 
-- Toolkit version #1
-- Date Created: 5/27/2021
+- Wednesdays Closed
+- Thursdays Closed
 
-[Get Started](README.md)
-[Cyschoolhouse](https://na82.salesforce.com/home/home.jsp)
-[IA Stream Channel](https://h100002412.education.scholastic.com/)
-[IA Newslettes]()  
-
-
-<img src="_images/cityscape.png" alt="cityscape" style="width:100%;"/>
+[Menu](mainmenu.md)
+[Join the Team!](https://forms.gle/GaLgizvFEL2XTnQD6)
