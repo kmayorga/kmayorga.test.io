@@ -10,6 +10,6 @@
 - Thursdays: Closed
 - Wednesdays: Closed
 
-[Menu](mainmenu.md)
+[Menu](README.md)
 [Join the Team!](https://forms.gle/GaLgizvFEL2XTnQD6)
 [About Our Church](https://www.voeaglerock.org/)
