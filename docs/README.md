@@ -1,5 +1,7 @@
 # Menu
 
+new
+
 ## Drinks
 
 - Hot Coffee ................Reg. $1.00
