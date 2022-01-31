@@ -4,9 +4,9 @@
 
 ### Hot Drinks
 
-Hot Coffee
+> Hot Coffee
 
-Hot Tea
+> Hot Tea
 
 ### Cold Drinks
 
