@@ -5,15 +5,47 @@
 ### Hot Drinks
 
 > Hot Coffee....................................Reg. $2.50 | Med. $3.50
->> Flavors: A, B, C
+>     *Flavors: Vanilla, Hazlenut, Carmel, Sugar Free Vanilla*
 
 > Hot Tea
+>     *Flavors: Earl Grey, English Breakfast, Chamomile, Green Tea*
 
 ### Cold Drinks
+
+> Iced Coffee....................................Reg. $2.50 | Med. $3.50
+
+> Red Bull Sunrise (Reg|SF)......................$3.50
+
+> Red Bull Sunset (Reg|SF).......................$6.00
+
+> Red Bull.......................................$4.00
+
+> Orange Juice...................................Reg. $2.00 | Med. $3.00
 
 
 ## **Food**
 
+### Snacks
+
+> Small Chips....................................$1.00
+
+> Medium Chips...................................$1.50
+
+> Biscotti.......................................$2.50
+
 ### Bakery Items
 
-### Hot Snacks 
+> Muffin.........................................$3.00
+
+> Danish.........................................$4.00
+
+> Bagel w/Creme Cheese...........................$4.50
+>> Raisin Cinnamon, Everything
+
+### Hot Snacks
+
+## Kids
+
+> Hot Chocolate.................................Reg. $2.00 | Med. $2.50
+
+> Orange Juice..................................Reg. $2.00 | Med. $3.00
