@@ -1,26 +1,28 @@
 # Menu Items
 
-## **Drinks**
+<h2><i><u>
+Drinks
+</h2></i></u>
 
 ### Hot Drinks
 
-> Hot Coffee....................................Reg. $2.50 | Med. $3.50
->     *Flavors: Vanilla, Hazlenut, Carmel, Sugar Free Vanilla*
+> Hot Coffee..................................................................Reg. $2.50 | Med. $3.50
+>    *Flavors: Vanilla, Hazlenut, Carmel, Sugar Free Vanilla*
 
-> Hot Tea
->     *Flavors: Earl Grey, English Breakfast, Chamomile, Green Tea*
+> Hot Tea.....................................................................Reg. $2.50 | Med. $3.50
+>    *Flavors: Earl Grey, English Breakfast, Chamomile, Green Tea*
 
 ### Cold Drinks
 
-> Iced Coffee....................................Reg. $2.50 | Med. $3.50
+> Iced Coffee.................................................................Reg. $2.50 | Med. $3.50
 
-> Red Bull Sunrise (Reg|SF)......................$3.50
+> Red Bull Sunrise (Reg|SF).....................................................................$3.50
 
-> Red Bull Sunset (Reg|SF).......................$6.00
+> Red Bull Sunset (Reg|SF)......................................................................$6.00
 
-> Red Bull.......................................$4.00
+> Red Bull......................................................................................$4.00
 
-> Orange Juice...................................Reg. $2.00 | Med. $3.00
+> Orange Juice................................................................Reg. $2.00 | Med. $3.00
 
 
 ## **Food**
