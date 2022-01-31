@@ -4,12 +4,12 @@
 
 # Welcome to the Rock Cafe
 
-> *A people you can call family and a place you can call home.*
+*A people you can call family and a place you can call home.*
 
-- Sundays 9 - 10:15am | 12:00 - 1:30pm
-- Thursdays Closed
-- Wednesdays Closed
+- Sundays: 9 - 10:15am | 12:00 - 1:30pm
+- Thursdays: Closed
+- Wednesdays: Closed
 
 [Menu](mainmenu.md)
 [Join the Team!](https://forms.gle/GaLgizvFEL2XTnQD6)
-[Learn More About Our Church](https://www.voeaglerock.org/)
+[About Our Church](https://www.voeaglerock.org/)
