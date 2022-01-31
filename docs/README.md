@@ -4,7 +4,7 @@
 
 ### Hot Drinks
 
-> Hot Coffee
+> Hot Coffee......$1
 
 > Hot Tea
 
