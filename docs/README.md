@@ -1,13 +1,17 @@
 # Menu Items
 
-## Drinks
+## **Drinks**
 
 ### Hot Drinks
+
+Hot Coffee
+
+Hot Tea
 
 ### Cold Drinks
 
 
-## Food
+## **Food**
 
 ### Bakery Items
 
