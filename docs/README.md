@@ -10,7 +10,7 @@ Drink Items
    - *Flavors: Vanilla, Hazlenut, Carmel, Sugar Free Vanilla*
 
 > Hot Tea.....................................................................Reg. $2.50 | Med. $3.50
->   - *Flavors: Earl Grey, English Breakfast, Chamomile, Green Tea*
+>    *Flavors: Earl Grey, English Breakfast, Chamomile, Green Tea*
 
 ### Cold Drinks
 
