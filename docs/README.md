@@ -1,4 +1,4 @@
-# Menu Items 2:47pm
+# Menu Items 2:50pm
 
 <h2><i><u>
 Drink Items
@@ -11,7 +11,8 @@ Drink Items
 > *Flavors: Vanilla, Hazlenut, Carmel, Sugar Free Vanilla 5:02pm*
 
 > Hot Tea........................Reg. $2.50 | Med. $3.50
->    *Flavors: Earl Grey, English Breakfast, Chamomile, Green Tea*
+>
+> *Flavors: Earl Grey, English Breakfast, Chamomile, Green Tea*
 
 ### Cold Drinks
 
@@ -40,13 +41,16 @@ Food Items
 ### Bakery Items
 
 > Muffin.........................................$3.00
->    *blueberry*
+>
+> *blueberry*
 
 > Danish.........................................$4.00
->    *cheese, almond*
+>
+> *cheese, almond*
 
 > Bagel w/Creme Cheese...........................$4.50
->> Raisin Cinnamon, Everything
+>
+> *Raisin Cinnamon, Everything*
 
 ### Hot Food
 
