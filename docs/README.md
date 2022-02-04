@@ -1,4 +1,4 @@
-# Menu Items
+# Menu Items 2:47pm
 
 <h2><i><u>
 Drink Items
@@ -6,24 +6,24 @@ Drink Items
 
 ### Hot Drinks
 
-> Hot Coffee.................................................................Reg. $2.50 | Med. $3.50
+> Hot Coffee....................Reg. $2.50 | Med. $3.50
 >    
 > *Flavors: Vanilla, Hazlenut, Carmel, Sugar Free Vanilla 5:02pm*
 
-> Hot Tea.....................................................................Reg. $2.50 | Med. $3.50
+> Hot Tea........................Reg. $2.50 | Med. $3.50
 >    *Flavors: Earl Grey, English Breakfast, Chamomile, Green Tea*
 
 ### Cold Drinks
 
-> Iced Coffee.................................................................Reg. $2.50 | Med. $3.50
+> Iced Coffee......................Reg. $2.50 | Med. $3.50
 
-> Red Bull Sunrise (Reg|SF).....................................................................$3.50
+> Red Bull Sunrise (Reg|SF)..........................$3.50
 
-> Red Bull Sunset (Reg|SF)......................................................................$6.00
+> Red Bull Sunset (Reg|SF)....... ...................$6.00
 
-> Red Bull......................................................................................$4.00
+> Red Bull...........................................$4.00
 
-> Orange Juice................................................................Reg. $2.00 | Med. $3.00
+> Orange Juice.....................Reg. $2.00 | Med. $3.00
 
 <h2><i><u>
 Food Items
@@ -40,16 +40,18 @@ Food Items
 ### Bakery Items
 
 > Muffin.........................................$3.00
+>    *blueberry*
 
 > Danish.........................................$4.00
+>    *cheese, almond*
 
 > Bagel w/Creme Cheese...........................$4.50
 >> Raisin Cinnamon, Everything
 
-### Hot Snacks
+### Hot Food
 
-## Kids
+## Kids Menu
 
-> Hot Chocolate.................................Reg. $2.00 | Med. $2.50
+> Hot Chocolate................Reg. $2.00 | Med. $2.50
 
-> Orange Juice..................................Reg. $2.00 | Med. $3.00
+> Orange Juice.................Reg. $2.00 | Med. $3.00
