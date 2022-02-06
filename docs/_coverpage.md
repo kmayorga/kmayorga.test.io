@@ -8,9 +8,8 @@
 - Thursdays: Closed
 - Wednesdays: Closed
 
-> Cash Prefferd
-> Zelle: kmayorga.pas@gmail.com
-> Venmo: @kmayorga-pasillas
+> - Zelle: kmayorga.pas@gmail.com
+> - Venmo: @kmayorga-pasillas
 
 [Menu](README.md)
 [Join the Team!](https://forms.gle/GaLgizvFEL2XTnQD6)
