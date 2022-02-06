@@ -11,7 +11,7 @@
 
 - Zelle: kmayorga.pas@gmail.com
 - Venmo: @kmayorga-pasillas
-- *Cash Preffered*
+- *Cash Preferred*
 
 [Menu](README.md)
 [Join the Team!](https://forms.gle/GaLgizvFEL2XTnQD6)
