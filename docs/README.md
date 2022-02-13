@@ -1,6 +1,26 @@
 # Menu Items
 
 <h2><i><u>
+Sweatheart Superbowl Special
+</h2></i></u>
+
+> Treat box............... $2.50
+>    
+> *Chocolate Covered Strawberries, Cheesecake bites, Cupcake, Brownie*
+
+> Single Brownie................. $4.00
+>
+> *Made with Love*
+
+> Single Cupcake................. $2.00
+>
+> *Made with Love*
+
+> Chocolate Covered Strawberries......... $10.00
+>
+> *Made with Love*
+
+<h2><i><u>
 Drink Items
 </h2></i></u>
 
@@ -47,11 +67,11 @@ Food Items
 
 ### Bakery Items
 
-> Muffin....................$3.00
+> Muffin..........................$3.00
 >
 > *Blueberry*
 
-> Danish....................$4.00
+> Danish..........................$4.00
 >
 > *Cheese, almond*
 
